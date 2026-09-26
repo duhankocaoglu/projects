@@ -7,4 +7,4 @@ Thanks to Daniel Hirsch for the idea and inspiration.
 
 
 
-[his channel]: (https://www.youtube.com/@HirschDaniel)
+his channel: (https://www.youtube.com/@HirschDaniel)
