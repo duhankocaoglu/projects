@@ -1,5 +1,5 @@
 # This repo is for my personal use.
-## I will attempt recreate existing
+I will attempt recreate existing
 things like http servers
 without **using/asking** AI anything.
 
